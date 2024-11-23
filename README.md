@@ -1,4 +1,4 @@
-# Single cycle CPU - running on FPGA
+# Pipelined CPU - running on FPGA
 Implement all instructions for RISC-V including Branch instructions. This repository will provide the automation flow for running the design into hardware.
 
 ## Changes to make in cpu.v file:
